@@ -56,7 +56,7 @@ const App = () => {
 
   return(
     <div>
-      <h1>Joel Ai  Application_Joejoe</h1>
+      <h1>Joel Ai  Application_Joejhhhoe</h1>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       </div>
     );
